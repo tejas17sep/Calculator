@@ -1,0 +1,9 @@
+.display {
+  display: inline-block;
+ 
+  margin-right: 19px;
+  margin-left: 19px;
+  max-width: 152px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
